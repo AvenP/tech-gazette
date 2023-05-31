@@ -166,7 +166,7 @@ main {
 }
 
 .upvote-btn:hover {
-  background-color: saddlebrown;
+  background-color: rgb(165, 27, 208);
   color: rgb(255, 255, 255);
 }
 
